@@ -24,7 +24,7 @@ import PropTypes from "prop-types";
 
 // const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 
-import image from "../images/anhnen.jpg";
+import image from "../images/Anhnen.jpg";
 
 const imageAltText = "Background";
 
